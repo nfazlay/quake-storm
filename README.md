@@ -1,2 +1,2 @@
-# DisasterAnalyzer
-C program that extracts information from csv file provided the by Meteorological Service of Canada.
+# quake-storm
+C program that analyzes data from Meteorological Service of Canada.
